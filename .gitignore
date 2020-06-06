@@ -4,4 +4,5 @@
 
 *.suo
 /src/**/bin/
-/src/**/obj
+/src/**/obj/
+/src/.vs
